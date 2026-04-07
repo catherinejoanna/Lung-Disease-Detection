@@ -24,4 +24,3 @@ using Chest X-rays and patient symptoms.
 - Confidence-based disease assessment
 - Unified diagnostic dashboard
 
-## Project Structure
